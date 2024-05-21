@@ -1,5 +1,6 @@
 .architect
 bootstrap.css
+node_modules
 bootstrap.js
 bootstrap.json
 bootstrap.jsonp
